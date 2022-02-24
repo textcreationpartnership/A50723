@@ -1,0 +1,345 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A merry, pleasant, and delectable history, between K. Edward the Fourth and a tanner of Tamworth as he rode upon a time with his nobles on hunting toward Drayton-Basset : very pleasant and merry to read.</title>
+            <title>King Edward the Fourth and a tanner of Tamworth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50723</idno>
+            <idno type="STC">Wing M1872A</idno>
+            <idno type="STC">ESTC R15186</idno>
+            <idno type="EEBO-CITATION">12950517</idno>
+            <idno type="OCLC">ocm 12950517</idno>
+            <idno type="VID">95884</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50723)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95884)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 720:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A merry, pleasant, and delectable history, between K. Edward the Fourth and a tanner of Tamworth as he rode upon a time with his nobles on hunting toward Drayton-Basset : very pleasant and merry to read.</title>
+                  <title>King Edward the Fourth and a tanner of Tamworth.</title>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles ...,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing lists imprint date as [1680?]</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edward --  IV, --  King of England, 1442-1483.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95884:1"/>
+            <pb facs="tcp:95884:1" rendition="simple:additions"/>
+            <p>A Merry, Pleaſant, and Delectable Hiſtory, BETWEEN K. <hi>Edward</hi> the Fourth, AND A Tanner of <hi>Tamworth;</hi>
+            </p>
+            <p>As he rode upon a time with his Nobles on Hunting toward <hi>Drayton-Baſſet:</hi> Very Pleaſant and Merry to Read.</p>
+            <figure>
+               <figDesc>King Edward IV and the Tanner of Tamworth</figDesc>
+            </figure>
+            <p>
+               <gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ed for <hi>F. Coles,</hi> in <hi>Vine-ſtreet,</hi> neer <hi>Hatten-Gardin.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:95884:2"/>
+            <p>
+               <figure>
+                  <figDesc>King Edward IV</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="ballad">
+            <pb facs="tcp:95884:2"/>
+            <head>THE Merry and pleaſant Com<g ref="char:EOLhyphen"/>munication, between King <hi>Edward</hi> the Fourth, and the Tanner of <hi>Tamworth.</hi>
+            </head>
+            <l>IN ſummer time when leaves grow gréen and bloſſomes bud on every Tree,</l>
+            <l>King <hi>Edward</hi> would a hunting ride, ſome paſtime for to ſee.</l>
+            <l>With hawk and hound, he made him bound, with horn, and eke with Bow,</l>
+            <l>Toward <hi>Drayton-Baſſet</hi> he took his way, whaſoever doth it know:</l>
+            <l>But as our King on his way rode forth, by eight a clock of the day,</l>
+            <l>He was ware of a Tanner of merry <hi>Tam<g ref="char:EOLhyphen"/>worth</hi> was in a quaint array:</l>
+            <l>A good Ruſſet coat the Tanner had on, he took it in mickle pride,</l>
+            <l>He rode on a Mare coſt four ſhillings, and under him a good Cow-hide.</l>
+            <p>
+               <pb facs="tcp:95884:3"/>
+               <figure>
+                  <figDesc>the Tanner of Tamworth</figDesc>
+               </figure>
+            </p>
+            <l>A pair of rough mittons the tanner did wear his Hood was button'd under his chin:</l>
+            <l>Yonder comes a good fellow quoth our King that cares not whether he loſe or win.</l>
+            <l>The Tanner came ſinging on his Mare, with one ſo merry a note;</l>
+            <l>He ſung out of tune, he was paſt care, he had no néed to greaſe his throat.</l>
+            <l>Stand you ſtill my Lords now, under this green-wood ſpray:</l>
+            <l>And I will ride to yonder fellow, to wéet what we ſhould ſay.</l>
+            <l>
+               <pb facs="tcp:95884:3"/>
+God ſpéed good fellow, then ſaid our King, thou art welcome ſir, quoth he,</l>
+            <l>Which is the way to <hi>Drayton-Baſſet,</hi> I pray thee now tell me.</l>
+            <l>Marry that I will, quoth the Tanner, right here as I do wand,</l>
+            <l>The next pair of Sallows thou comeſt to, turn up on thy right hand.</l>
+            <l>It is the unready way ſaid our King, I tell thee ſo mouth I thee,</l>
+            <l>I pray thee ſhew me the ready way, the Town that I may ſee.</l>
+            <l>Go play the great Iavel, quoth the Tanner, I hold thee out of thy Wit;</l>
+            <l>All day I have ridden on <hi>Brock</hi> my Mare, and I am faſting yet.</l>
+            <l>Why we will go to the Town, ſaid our King and of dainties we will not lack;</l>
+            <l>We will eat and drink, and fare of the beſt, and I will pay for the ſhot:</l>
+            <l>God a mercy good fellow; quoth the Tanner thou payeſt for none of mine,</l>
+            <l>For I have as many nobles in my purſe, as thou haſt half pence in thine.</l>
+            <l>God give thee ioy of yours, ſaid our King and ſend thee well to thrive:</l>
+            <l>The Tanner would fain have been away for he wen he had been a thief:</l>
+            <l>
+               <pb facs="tcp:95884:4"/>
+What art thou good fellow, qd. the Tanner, of thee I ſtand in great fear,</l>
+            <l>For the cloaths thou weareſt on thy back may ſéem a good Lord to wear.</l>
+            <l>I never ſtole them, ſaid our King, I tell thee Sir by the Rood;</l>
+            <l>No, thou playeſt as many an Vnthrift doth, thou ſtanded in the midſt of thy good.</l>
+            <l>What tydings have you, ſaid our King, as you ride far and near;</l>
+            <l>I hear no tydings quoth the Tanner, but that Cow-hides be dear:</l>
+            <l>Cow-hides, Cow-hides then ſaid our King, I know not what they be.</l>
+            <l>Lo here thou mayſt ſée one, quoth the Tanner here lies one under me.</l>
+            <l>Knowſt thou not a Cow-hide, qd. the Tanner and haſt gone fo long to School?</l>
+            <l>If ever you hap to dwell in the Country, thou wilt be made a fool.</l>
+            <l>What tradeſman art thou, ſaid our King, I pray thee tell me now?</l>
+            <l>I am a Barker, quoth the Tanner; what Tradeſman then art thou?</l>
+            <l>I am a Courtier ſaid our King, and forth of ſervice worn:</l>
+            <l>Full fain I would your Prentice be, your cunning for to learn.</l>
+            <l>
+               <pb facs="tcp:95884:4"/>
+Marry God forbid, quoth the Tanner that ſuch a Prentice I ſhould rear:</l>
+            <l>He would ſpend me more then he would get, by forty ſhillings in the year:</l>
+            <l>One thing I would wiſh ſaid our King if thou wilt not ſeem ſtrange,</l>
+            <l>Though my horſe be better then thy Mare, with you I fain would change:</l>
+            <l>Nay there thou ly'ſt yet, quoth the Tanner, by <hi>Jove</hi> thou ſhalt abide,</l>
+            <l>For if thou have <hi>Brock</hi> my Mare thou get'ſt not my Cow-hide.</l>
+            <l>I will not have it, ſaid our King I tell thee ſo mouth I thee;</l>
+            <l>I would not carry it away, though thou would give it me.</l>
+            <l>Why then we muſt change, ſaid the Tanner as needs me think thou woot:</l>
+            <l>But if thou muſt have <hi>Brock</hi> my Mare I look to have ſome boot.</l>
+            <l>That were againſt reaſon, ſaid our King I tell thee ſo might I thee,</l>
+            <l>My horſe is better then thy Mare and that you well may ſee.</l>
+            <l>
+               <hi>Aviſe Avous,</hi> now ſaid the Tanner, whether thou wilt or no;</l>
+            <l>For my Mare is gentle and will not kick but ſoftly ſhe will go.</l>
+            <l>
+               <pb facs="tcp:95884:5"/>
+And thy horſe is unhappy and unweldy and will never go in reſt:</l>
+            <l>But always skipping here and there and therefore my Mare is beſt.</l>
+            <l>What boot will you have then ſaid ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King tell me now in this tide?</l>
+            <l>Never a ſingle penny, quoth the Tanner but a noble in gold ſo red.</l>
+            <l>Why here is my noble, ſaid the King well paid ſee that you be;</l>
+            <l>I would have ſworn on a book, qd. the tanner thou hadſt not had one penny.</l>
+            <l>Now hath the King the Tanners Mare, (ſhe is nothing fat fair nor round)</l>
+            <l>And the Tanner hath the Kings good ſteed, the Saddle is worth twenty pound.</l>
+            <l>The Tanner took up the good Cow-hide off the ground whereas it ſtood,</l>
+            <l>He threw it upon the Kings brave Steed in the Saddle that was ſo good:</l>
+            <l>The ſteed ſtared much upon the horns, under the green wood ſpray,</l>
+            <l>He had wend the devil of hell had béen come to carry him thence away.</l>
+            <l>The Tanner looked as faſt on the ſtirrops, aſtonied ſore he was,</l>
+            <l>He marvelled greatly in his mind, whether they were gold or braſs:</l>
+            <l>
+               <pb facs="tcp:95884:5"/>
+Help me up good fellow, qd. the Tanner, lightly that I were gone,</l>
+            <l>My Wife and my neighbours more and leſs will ſay I am a Gentleman:</l>
+            <l>The King took the Tanner by the Leg, and lift him up a loft,</l>
+            <l>The Tanner girded out a good round fart, his belly was ſo ſoft;</l>
+            <l>You make great waſte then ſaid our King, your courteſie is but ſmall,</l>
+            <l>The horſe is ſo high qd. the Tanner again, I fear me of a fall.</l>
+            <l>But when the Tanner was in the Saddle, the Steed began to blow and blaſt,</l>
+            <l>And againſt the root of an old rotten tree, the Tanner down he caſt.</l>
+            <l>Abide good fellow, ſaid our King, you make over much haſte,</l>
+            <l>Thou ſhalt have thy horſe with a vengeance for my neck is well nigh braſt.</l>
+            <l>Why then we muſt change, ſaid our King, as methinks needs I woot,</l>
+            <l>But if you have your Mare again, I look to have ſome boot,</l>
+            <l>What boot wilt thou have, qd. the Tanner, tell me now in this ground?</l>
+            <l>Never a groat nor penny ſaid our King, but of thy Gold twenty pound:</l>
+            <l>
+               <pb facs="tcp:95884:6"/>
+Nay here is thy noble, qd the Tanner again and Chriſt bleſſing and mine,</l>
+            <l>Yea, there is twenty good groats more go drink them at the Wine.</l>
+            <l>So mouth I thee, then ſaid our King it ſhall not ſlack my woe;</l>
+            <l>For when a Noble is in ſmall money; full ſoon it is a goe.</l>
+            <l>Doſt thou love to keep gold, qd. the Tanner, the King anſwered and ſaid yea:</l>
+            <l>Then I would thou wert my near kinſman, for I think thou wilt thrive and thee.</l>
+            <l>Now hath the Tanner <hi>Brock</hi> his Mare and under bim his good Cow-hide:</l>
+            <l>Our Noble King had his horſe again which was a well fed ſteed.</l>
+            <l>Now farewel good fellow, quoth the Tanner, I will no longer abide with thee.</l>
+            <l>Tarry here yet a little while ſaid our King, and ſome paſtime we ſhall ſee:</l>
+            <l>Our King ſet a bugle horn to to his mouth, and blew a blaſt both loud and ſmall,</l>
+            <l>Sevenſcore Lords, Knights Squires, and Yeomen came riding over a dale.</l>
+            <l>Now out alas, quoth the Tanner, that ever I ſaw this tide,</l>
+            <l>Thou art a ſtrong Thief, yonder be thy fel<g ref="char:EOLhyphen"/>lows, will have my Mare and my Cow-hide.</l>
+            <l>
+               <pb facs="tcp:95884:6"/>
+They are no Thieves then ſaid our King I tell thee ſo might I thee:</l>
+            <l>It is my Lord of <hi>Drayton-Baſſet,</hi> is come a hunting with me.</l>
+            <p>
+               <figure>
+                  <figDesc>King Edward IV and the Tanner of Tamworth</figDesc>
+               </figure>
+            </p>
+            <l>But when they all before the King came, they fell down on their knees:</l>
+            <l>the tanner had rather then a thouſand pound he had been out of their companies.</l>
+            <l>
+               <pb facs="tcp:95884:7"/>
+A Coller a Coller, our King gan try, quoth the Tanner it will breed ſorrow,</l>
+            <l>For after a Coller cometh a Halter, I trow I ſhall be hanged to morrow.</l>
+            <l>Be not afraid Tanner, ſaid our King I tell thee ſo mouth I thee:</l>
+            <l>Loe here I make thee the beſt Eſquire, that is in the North Countrey;</l>
+            <l>And <hi>Plumpton</hi> Park I will give thee and <hi>Jocky</hi> in this tide:</l>
+            <l>It is worth three hundred pounds a year, to prepare thy good Cow-hide.</l>
+            <l>God a mercy good fellow, quoth the Tanner for this that thou haſt done,</l>
+            <l>the next time thou comſt to <hi>Tamworth</hi> town thou ſhalt have clouting leather for thy ſhoon,</l>
+            <l>And if thou comeſt to my houſe ſweet Lad I ſay to thee:</l>
+            <l>Thou ſhalt have as good pudding, tripe, and fowſe, as is in our Countrey:</l>
+            <l>A roaſted Apple by the fire; well cruſht in a <hi>brown</hi> Bowl:</l>
+            <l>With nappy Ale that <hi>Doll</hi> doth brew, and merrily it doth trole:</l>
+            <l>And come a hunting to my Park, for there thou ſhalt be free:</l>
+            <l>And take the beſt and leave the worſt, until they better be.</l>
+            <l>
+               <pb facs="tcp:95884:7"/>
+A good Straw-bed likewiſe thou ſhalt at any time command,</l>
+            <l>With a pair of good Hempton ſheets as any in the Land:</l>
+            <l>And faith I ſwear if well I like thou ſhalt my daughter have,</l>
+            <l>A good brown laſs that's very tight and woed by Suitors brave;</l>
+            <l>For <hi>Hob</hi> that is our Sextones Son, with Love is like to dye;</l>
+            <l>And if ſhe do not ſpeak him fair good faith the fool will cry.</l>
+            <l>I thank you, quoth the King again, and I this Laſs will ſée:</l>
+            <l>For quickly we will ſtrike a match if ſhe and I can agree.</l>
+            <l>Well, qd. the Tanner leave theſe youths, and we will homeward wend,</l>
+            <l>A Barrel of good ſtrong Ale, on them and you Ile ſpend.</l>
+            <l>So homeward to his houſe they rode, where they did all alight:</l>
+            <l>He prayed him ſend his men away, and he ſhould bide there that night.</l>
+            <l>Come out ſweet <hi>Doll,</hi> the Tanner ſaid my Wife thou ſhalt here ſée,</l>
+            <l>With that came out a good old Dame and made a low Courtiſie.</l>
+            <l>
+               <pb facs="tcp:95884:8"/>
+Your Worſhips welcome, quoth his wife, and up ſhe drank a quaff:</l>
+            <l>That ſtrait away ſhe began to réel, which made the King to laugh.</l>
+            <l>Then for his daughter he did call, who ſtrait came bubling out:</l>
+            <l>Whoſe head was dreſt in ſéemly ſort, with a clean linnen clout.</l>
+            <l>Is this your Daughter ſaid the King I that it is, quoth he,</l>
+            <l>Her like is not to be found, throughout the whole Countrey,</l>
+            <l>I do believe it, quoth our King, but would I were not Wed,</l>
+            <l>I would deſire no other one to lodge within my bed:</l>
+            <l>But cauſe I like your Daughter well, I wiſh her well to match;</l>
+            <l>Here take my purſe that's full of gold, which quickly ſhe did catch.</l>
+            <l>So taking leave to horſe they got, the Tanner then did ſwear,</l>
+            <l>That ſuch a jovial Lad as he the ground did never bear.</l>
+            <l>The King unto the Court did wend, the Tanner to the fire:</l>
+            <l>To know thoſe men, old <hi>Doll</hi> his wife, did earneſtly enquire,</l>
+            <l>
+               <pb facs="tcp:95884:8"/>
+Then he related as he was told, and ſo to bed they went:</l>
+            <l>And afterwards they ſpent their days in joy and merryment.</l>
+            <l>A houſe of Hoſpitality he ever did maintain,</l>
+            <l>And did relieve the hungry ſort, the needy and the Lame.</l>
+            <l>Of what he had he made no ſpare, but freely ſpent his good;</l>
+            <l>The Widow and the Fatherleſs he comforted with food.</l>
+            <l>Thus have I here related now, the ſtory of a King:</l>
+            <l>And of the Tanners honeſt life, great praiſe will ever ring.</l>
+            <l>
+               <hi>Now God above ſpeed well the Plow, and keep us from care and woe.</hi>
+            </l>
+            <l>
+               <hi>Till every Tanner in our Country do go a hunting ſo.</hi>
+            </l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95884:9"/>
+            <trailer>
+               <figure>
+                  <figDesc>King Edward IV</figDesc>
+               </figure>
+            </trailer>
+            <pb facs="tcp:95884:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
